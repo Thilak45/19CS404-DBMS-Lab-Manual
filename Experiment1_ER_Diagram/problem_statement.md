@@ -48,6 +48,7 @@ Design a database for patient management, appointments, medical records, and bil
 # ER Diagram Submission
 
 NAME - VELLACHI TILAK
+
 REGISTER NUMBER - 212223240172
 
 ## Scenario Chosen:
